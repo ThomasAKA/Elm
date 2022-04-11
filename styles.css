@@ -1,0 +1,25 @@
+body {
+    background-color: aqua;
+}
+
+.socials {
+    background-color: gray;
+    margin: 50px;
+    background-position: center;
+}
+
+.imgone {
+    height: 50px;
+  width: 50px;
+}
+.imgtwo {
+    height: 50px;
+  width: 50px;
+}
+.imgthree {
+    height: 50px;
+  width: 50px;
+}
+.article {
+    text-align: center;
+}
