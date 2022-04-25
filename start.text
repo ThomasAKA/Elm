@@ -1,0 +1,5 @@
+This is how to get the files running:
+1. You need Node.js
+2. Follow this steps to get Elm on your machine: https://elmprogramming.com/installation.html#installing-elm-platformhttps://guide.elm-lang.org/install/ 
+3. This is how to convert Elm code to HTML: https://elmprogramming.com/elm-make.html
+4. Run command: "elm reactor" to start a server running.
